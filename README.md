@@ -38,8 +38,8 @@ python3 test_connection.py
 ## Example Output
 ```text
 Connecté à Ethereum Mainnet via Alchemy !
-Dernier bloc miné         : #26486938
-Prix actuel du Gas        : 0.35 Gwei
-Solde ETH du portefeuille : 240.1234 ETH
+Dernier bloc miné         : #26488585
+Prix actuel du Gas        : 0.18 Gwei
+Solde ETH du portefeuille : 5.7996 ETH
 Solde USDC du portefeuille: 41.19 USDC
 ```
